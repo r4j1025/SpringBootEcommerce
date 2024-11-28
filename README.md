@@ -70,6 +70,7 @@ This project is a basic **E-Commerce Website** built using **React** for the fro
   - ...
 
 ## Screenshots
+![Screenshot 2024-11-28 182801](https://github.com/user-attachments/assets/fa1271dc-bbe4-4e9d-92c5-fab85c0b4550)
 
 ## Future Enhancements
 - Add user authentication and authorization.
